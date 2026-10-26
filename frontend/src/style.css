@@ -1,0 +1,24 @@
+[v-cloak] { 
+    display: none; 
+}
+body { 
+    font-family: Tahoma, 'Leelawadee UI', sans-serif;
+    color: #243648; 
+    background: #f2f5f8;
+}
+header {
+    padding: 18px 24px;
+    background: #164d72;
+    color: white; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+    gap: 12px;
+}
+header strong { 
+    font-size: 22px;
+}
+header small { 
+    display: block;
+}
